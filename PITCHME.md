@@ -11,7 +11,7 @@ Head of Community @ Auth0<br />
 
 +++
 ## More about me
-@ul[brighten]
+@ul
 - 25+ years in Technology
 - 18 years in Mobile
 - 10 years at XDA-Developers in Community & Developer Relations
@@ -20,7 +20,7 @@ Head of Community @ Auth0<br />
 
 +++
 ## Even more
-@ul[brighten]
+@ul
 - Wife and 3 kids
 - Used to own a coffee shop
 - Play guitar and percussion
