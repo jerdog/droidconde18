@@ -44,15 +44,15 @@ Head of Community @ Auth0<br />
 @ulend
 
 ---
+### Spontaneous community
+
+---?image=assets/image/spontaneous_community.jpg&size=auto 90%
+
+---
 ## Need for Communities Growing
 
 
----
-## How do you get people involved?
-
-
-
----?image=assets/image/generational.png&size=auto 90%@opacity=60
+---?image=assets/image/generational.png&size=auto 90%&opacity=60
 ### Lifecycle of Communities
 @ul
 - Inception @note[In the **INCEPTION** phase, you'll be inviting members to join, starting discussions and get participation in them, and build the relationships needed to make the community viable.]
@@ -64,3 +64,14 @@ Head of Community @ Auth0<br />
 
 Note:
 Feverbee, a community-consulting company, has come up with 4 stages in a community's lifecycle, with each having their own steps and/or tasks to get to the next stage.   
+
+---
+## How do you get people involved?
+
+
+---
+### Understand motivations for involvement
+
+
+---
+### Increasing participation
