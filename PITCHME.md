@@ -6,8 +6,8 @@
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
 <i class="fa fa-twitter"></i> @IAmJerdog<br />
-<i class="fab fa-chrome"></i>https://jmeiss.me<br />
-<i class="far fa-envelope"></i>jeremy.meiss@gmail
+<i class="fa fa-chrome"></i>https://jmeiss.me<br />
+<i class="fa fa-envelope"></i>jeremy.meiss@gmail
 
 +++
 ## More about Me
