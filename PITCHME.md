@@ -6,11 +6,11 @@
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
 <i class="fa fa-twitter"></i> @IAmJerdog<br />
-<i class="fa fa-chrome"></i>https://jmeiss.me<br />
-<i class="fa fa-envelope"></i>jeremy.meiss@gmail
+<i class="fa fa-chrome"></i> https://jmeiss.me<br />
+<i class="fa fa-envelope"></i> jeremy.meiss@gmail
 
 +++
-## More about Me
+## More about me
 @ul[brighten]
 - 25+ years in Technology
 - 18 years in Mobile
@@ -19,7 +19,7 @@ Head of Community @ Auth0<br />
 @ulend
 
 +++
-## More than you probably wanted to know
+## Even more
 @ul[brighten]
 - Wife and 3 kids
 - Used to own a coffee shop
@@ -27,4 +27,7 @@ Head of Community @ Auth0<br />
 - A Whovian
 - Unable to do tricks
 @ulend
----
+
+---?image=assets/image/watermelon.jpg&size=auto 90%
+
+## Community == Watermelon?
