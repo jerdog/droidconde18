@@ -5,6 +5,13 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
+ .reveal section img {
+   border: 0;
+   box-shadow: none;
+ }
+ @import url("font-awesome.min.css");
+
+
 body {
   background: #000;
   background-color: #000;
@@ -78,4 +85,3 @@ html:-moz-full-screen-ancestor {
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
-
