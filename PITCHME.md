@@ -55,12 +55,12 @@ Head of Community @ Auth0<br />
 ---?image=assets/image/generational.png&size=auto 90%@opacity=60
 ### Lifecycle of Communities
 @ul
-- Inception
-- Establishment
-- Maturity
-- Mitosis
-- Death
+- Inception @note[In the **INCEPTION** phase, you'll be inviting members to join, starting discussions and get participation in them, and build the relationships needed to make the community viable.]
+- Establishment @note[When your community becomes **ESTABLISHED** you'll be writing content, organizing events, talks, etc., analyzing statistics about the community, deal with conflicts/disputes, etc.]
+- Maturity @note[Community **MATURITY** will see the influence of the community growing, volunteers growing; goals and vision will be streamlined, refined, and widely adopted.]
+- Mitosis @note[**MITOSIS** is when a cell splits into new nuclei - or in this case forms more-focused sub groups in your community. Communities can be thought of as organisms. Organisms are born, they grow, they mature, and then some split and replicate themselves elsewhere. But there's another aspect of communities that isn't often talked about - sometimes they die.]
+- Death @note[The four cycles above are \natural, and if they aren't doing this, they're already dead - and with communities it is a real thing - and so I am adding **DEATH**.]
 @ulend
 
 Note:
-Feverbee, a community-consulting company, has come up with 4 stages in a community's lifecycle, with each having their own steps and/or tasks to get to the next stage. In the **INCEPTION** phase, you'll be inviting members to join, starting discussions and get participation in them, and build the relationships needed to make the community viable. When your community becomes **ESTABLISHED** you'll be writing content, organizing events, talks, etc., analyzing statistics about the community, deal with conflicts/disputes, etc. Community **MATURITY** will see the influence of the community growing, volunteers growing; goals and vision will be streamlined, refined, and widely adopted. **MITOSIS** is when a cell splits into new nuclei - or in this case forms more-focused sub groups in your community. Communities can be thought of as organisms. Organisms are born, they grow, they mature, some split and replicate themselves elsewhere, and then they die. It is natural, and if they aren't doing this, they're already dead - and with communities it is a real thing - and so I am adding **DEATH**.
+Feverbee, a community-consulting company, has come up with 4 stages in a community's lifecycle, with each having their own steps and/or tasks to get to the next stage.   
