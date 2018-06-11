@@ -3,7 +3,6 @@
 ![conflogo](assets/image/conflogo.png)
 ---
 ## Who am I
-![ARGH](images/IMG_Jeremy_2014.JPG)
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
 <i class="fa fa-twitter"></i> @IAmJerdog<br />
@@ -17,14 +16,15 @@ Head of Community @ Auth0<br />
 - 18 years in Mobile
 - 10 years at XDA-Developers in Community & Developer Relations
 - Community/DevRel Consultant
-&ulend
+@ulend
 
 +++
 ## More than you probably wanted to know
+@ul[brighten]
 - Wife and 3 kids
-- Used to own a coffee shop <!-- .element: class="fragment" -->
-- Play guitar and percussion <!-- .element: class="fragment" -->
-- A Whovian <!-- .element: class="fragment" -->
-- Unable to do tricks <!-- .element: class="fragment" -->
-
+- Used to own a coffee shop
+- Play guitar and percussion
+- A Whovian
+- Unable to do tricks
+@ulend
 ---
