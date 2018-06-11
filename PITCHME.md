@@ -43,7 +43,16 @@ Head of Community @ Auth0<br />
 - Humor
 @ulend
 
-+++?image=images/generational.png&size=auto 90%@opacity=60
+---
+## Need for Communities Growing
+
+
+---
+## How do you get people involved?
+
+
+
+---?image=assets/image/generational.png&size=auto 90%@opacity=60
 ### Lifecycle of Communities
 @ul
 - Inception
