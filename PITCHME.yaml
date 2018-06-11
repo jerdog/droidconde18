@@ -1,0 +1,8 @@
+theme : sunkist
+theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+logo : assets/image/logo.png
+highlight : atom-one-dark
+transition : none
+published : true
+footnote : "droidcon Berlin 2018"
