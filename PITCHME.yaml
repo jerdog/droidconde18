@@ -7,3 +7,4 @@ transition : fade
 mousewheel : true
 published : true
 footnote : "droidcon Berlin 2018"
+background-opacity : 50
