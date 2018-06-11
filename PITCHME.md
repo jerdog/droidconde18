@@ -14,7 +14,7 @@ Head of Community @ Auth0<br />
 @ul
 - 25+ years in Technology
 - 18 years in Mobile
-- 10 years at XDA-Developers in Community & Developer Relations
+- 10 years at XDA in Community/DevRel
 - Community/DevRel Consultant
 @ulend
 
