@@ -1,7 +1,7 @@
 # Community
-*Jeremy Meiss*
+### Jeremy Meiss
 ![conflogo](assets/image/conflogo.png)
---
+---
 ## Who am I
 ![ARGH](images/IMG_Jeremy_2014.JPG)
 #### Jeremy Meiss
