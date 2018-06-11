@@ -1,5 +1,5 @@
 # Community
-### Jeremy Meiss
+### What is it good for?
 ![conflogo](assets/image/conflogo.png)
 ---
 ## Who am I
@@ -16,7 +16,7 @@ Head of Community @ Auth0<br />
 - 25+ years in Technology
 - 18 years in Mobile
 - 10 years at XDA-Developers in Community & Developer Relations
-- Community/DevRel Consultant 
+- Community/DevRel Consultant
 &ulend
 
 +++
