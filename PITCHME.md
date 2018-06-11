@@ -28,6 +28,6 @@ Head of Community @ Auth0<br />
 - Unable to do tricks
 @ulend
 
----?image=assets/image/watermelon.jpg&size=auto 90%&opacity=50
+---?image=assets/image/watermelon.jpg&size=auto 90%&opacity=60
 
 ## Community == Watermelon?
