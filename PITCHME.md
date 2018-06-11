@@ -46,7 +46,7 @@ Head of Community @ Auth0<br />
 ---
 ### Spontaneous community
 
----?image=assets/image/spontaneous_community.jpg&size=auto 90%
+---?image=assets/image/spontaneous_community.jpg&size=auto 50%
 
 ---
 ## Need for Communities Growing
