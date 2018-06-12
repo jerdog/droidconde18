@@ -90,7 +90,7 @@ Understanding why people would want to participate in your community is essentia
 - Recognition and status boost @note[Being **recognized** for the things people do within the community, or boosting their status (sometimes both)]
 - Access to more info, tools, resources, etc. @note[giving more **tools**, resources, or information;]
 - More capabilities and control @note[more **capabilities or control**;]
-- Swag. Cool stuff. @note[and **swag** (I mean who doesn't like swag?) These are all are ways to bring about more participation. It's essential to figure out what works best for _your_ community - there isn't one size / fits all.]
+- Swag. Cool stuff. @note[and **swag** (I mean who doesn't like swag?) These are all are ways to bring about more participation. It's essential to figure out what works best for _your_ community - there isn't one size / fits all. Strongly encourage more intrinsic rewards vs extrinsic - how you get them is how you'll keep them.]
 @ulend
 
 Note:
