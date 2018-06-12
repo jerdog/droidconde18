@@ -12,9 +12,9 @@ Head of Community @ Auth0<br />
 ---
 ## More about me
 @ul
-- 25+ years in Technology
+- 25&plus; years in Technology
 - 18 years in Mobile
-- 10+ years in Community/DevRel
+- 10&plus; years in Community/DevRel
 - Community/DevRel Consultant
 @ulend
 
@@ -67,11 +67,46 @@ Feverbee, a community-consulting company, has come up with 4 stages in a communi
 
 ---
 ## How do you get people involved?
-
+"If you can *enable* an environment in which people can share, they will and the benefits will entice others to join." -**Susannah Fox**, *Pew Internet / American Life Project*
 
 ---
 ### Understand motivations for involvement
+@ul
+- Help to receive help
+- Increased recognition
+- Make an impact
+- Connection with others in community
+- Belonging
+@ulend
 
+Note:
+It is important to understand the different reasons that people participate in communities. A few of the different ways are:
+
+Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
 
 ---
 ### Increasing participation
+@ul
+- Recognition and status boost @note[Being **recognized** for the things people do within the community, or boosting their status (sometimes both)]
+- Access to more info, tools, resources, etc. @note[giving more **tools**, resources, or information;]
+- More capabilities and control @note[more **capabilities or control**;]
+- Swag. Cool stuff. @note[and **swag** (I mean who doesn't like swag?) These are all are ways to bring about more participation. It's essential to figure out what works best for _your_ community - there isn't one size / fits all.]
+@ulend
+
+Note:
+
+---
+## Auth0 Story
+
+
+Note:
+
+---
+## Resources
+- CHAOSS: Community Health Analytics Open Source Software - http://chaoss.community
+- *Art of Community*, Jono Bacon, http://artofcommunityonline.org
+- Community Pulse Podcast - http://communitypulse.io/
+- TODO Group: open source collaboration providing guides on open source in the workplace - http://todogroup.org
+
+---
+## Q&A
