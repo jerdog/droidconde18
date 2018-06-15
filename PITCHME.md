@@ -49,11 +49,11 @@ Head of Community @ Auth0<br />
 ---?image=assets/image/spontaneous_community.jpg&size=auto 50%
 
 ---
-## Need for Communities Growing
+## Community Need Growing
 @ul
 - Collaboration is a necessity @note[Whether you're building a simple mobile app, or a website or mobile for a large corporation, there is a constant need for ongoing support, regular updates, and continuous improvement - and that means collaboration is now a priority and a necessity. This can take on different functions (D2D, B2C, B2B, etc.) and forms (social, forums, etc.)]
 - Traditional marketing less effective @note[Marketing has its place, but nowadays, people (and especially developers) are less interested in being advertised to, preferring instead to receive unbiased recommendations. In other words, if someone loves a particular product, they’ll likely spread the good word with or without an incentive to do so.]
-- Big organizations and Companies embracing communities @note[There are plenty of case studies out there which detail the ROI that companies are getting from their community outreach - companies like AmEx, Roku, SendGrid, Walmart, Starbucks, Subway, and more.]
+- Big orgs/companies embracing communities @note[There are plenty of case studies out there which detail the ROI that companies are getting from their community outreach - companies like AmEx, Roku, SendGrid, Walmart, Starbucks, Subway, and more.]
 @ulend
 
 Note:
