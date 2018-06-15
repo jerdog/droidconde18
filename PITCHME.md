@@ -61,9 +61,9 @@ Note:
 ---
 ### Brand Advocates / SuperUsers
 @ul
-- 5x more valuable than average user
-- Spend 2x&plus; more than average user @note[Good for those developing under a freemium model]
-- Spend 3x average customers customers over lifetime of relationship
+- 5x more valuable
+- Spend 2x&plus; more @note[Good for those developing under a freemium model]
+- Spend 3x average over lifetime
 - Larger social reach @note[Typically reach more people via social media than you each time they advocate for a product or service]
 - More trusted than influencers @note[Customers trust advocates more, usually their family members, friends, or friends of friends, than they do "influencers". Their loyalty is longer-lasting, and their passion is obvious. Simply put, customers trust other customers.]
 @ulend
