@@ -124,7 +124,7 @@ Note:
 - Where we went (Zendesk and Answerhub)
 -
 
----?image=assets/image/answerhub_oldCommunity.png&size=auto 90%
+---?image=assets/image/answerhub_oldCommunity.png&size=auto 80%
 
 ---
 ## Resources
