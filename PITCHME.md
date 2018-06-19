@@ -89,6 +89,29 @@ Feverbee, a community-consulting company, has come up with 4 stages in a communi
 ## How do you get people involved?
 "If you can *enable* an environment in which people can share, they will and the benefits will entice others to join." -**Susannah Fox**, *Pew Internet / American Life Project*
 
+Note:
+Vibrant, awesome communities foster a "sense" of connectedness, and then combine the ability for people to contribute and add value - these become tremendously rewarding places to be a part of.
+
+---
+### How to get started?
+@ul
+- Identify target devs and where they hang out @note[Places like SO, StackExchange, Hacker News, Reddit, etc. are the biggest, with places like Microsoft's MSDN targeting devs on specific MS platforms and tech partners.]
+- Identify their interests and motivations
+- Remove barriers to adoption @note[Remove every barrier which prohibits easy adoption of your platform/product. Make sure that your onboarding to participation in the community is as straightforward / simple as possible.]
+@ulend
+
+Note:
+
+---
+### Community Onboarding 101
+@ul
+- Make new members feel welcomed and comfortable
+- Give specific, simply steps to get started
+- Don't overwhelm with too much info/tasks
+- Over time interact in multiple ways @note[don't just use email to interact]
+- Convey the culture and voice of the community
+@ulend
+
 ---
 ### Understand motivations for involvement
 @ul
@@ -102,8 +125,6 @@ Feverbee, a community-consulting company, has come up with 4 stages in a communi
 Note:
 It is important to understand the different reasons that people participate in communities. A few of the different ways are:
 
-Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
-
 ---
 ### Increasing participation
 @ul
@@ -114,6 +135,7 @@ Understanding why people would want to participate in your community is essentia
 @ulend
 
 Note:
+Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
 
 ---
 ## Auth0 Story
@@ -125,6 +147,23 @@ Note:
 -
 
 ---?image=assets/image/answerhub_oldCommunity.png&size=auto 85%
+
+---
+### Support-Driven Community
+
+
+Note:
+We
+
+---
+<em>"Real community is so much more than just basic customer support..."</em> -Jeff Atwood, StackOverflow creator
+
+Note:
+Jeff Atwood, creator of Stack Overflow, said that "Real community is so much more than just basic customer support, it’s listening to your customers, talking to them in public, folding in their feedback, talking to your own team in public, watching customers give pro tips to other customers, and generally just walking alongside your customers in their journey with your product."
+
+---?image=assets/image/auth0_Community.png&size=auto 85%
+
+### Developers Helping Developers
 
 ---
 ## Resources
