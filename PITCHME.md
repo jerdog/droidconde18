@@ -156,7 +156,11 @@ Note:
 We
 
 ---
-<em>"Real community is so much more than just basic customer support..."</em> -Jeff Atwood, StackOverflow creator
+### Vending Machine Community
+![vending-machine](assets/image/vending_machines.png)
+
+---
+<em>"Real community is so much more than just basic customer support..."</em><br />Jeff Atwood, StackOverflow creator
 
 Note:
 Jeff Atwood, creator of Stack Overflow, said that "Real community is so much more than just basic customer support, it’s listening to your customers, talking to them in public, folding in their feedback, talking to your own team in public, watching customers give pro tips to other customers, and generally just walking alongside your customers in their journey with your product."
