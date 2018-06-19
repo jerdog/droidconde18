@@ -167,6 +167,7 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 
 ---?image=assets/image/auth0_Community.png&size=auto 85%
 
+---
 ### Developers Helping Developers
 
 ---
