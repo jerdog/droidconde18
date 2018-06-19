@@ -120,6 +120,11 @@ Note:
 
 
 Note:
+- Where we started
+- Where we went (Zendesk and Answerhub)
+-
+
+---?image=assets/answerhub_oldCommunity.png&size=auto 90%
 
 ---
 ## Resources
