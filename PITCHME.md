@@ -153,7 +153,7 @@ Note:
 
 
 Note:
-We
+Our community became a Q&A community, where someone would ask a question, hope for the answer, and then go back to doing what they were until they had another question. I commonly refer to it as...
 
 ---
 ### Vending Machine Community
