@@ -12,21 +12,11 @@ Head of Community @ Auth0<br />
 ---
 ## More about me
 @ul
-- 25&plus; years in Technology
-- 18 years in Mobile
 - 10&plus; years in Community/DevRel
 - Community/DevRel Consultant
-@ulend
-
----
-## Even more
-@ul
-- Wife and 3 kids
-- Used to own a coffee shop
-- Play guitar and percussion
-- A Whovian
 - Unable to do tricks
 @ulend
+
 
 ---?image=assets/image/watermelon.jpg&size=auto 90%&opacity=60
 
