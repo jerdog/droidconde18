@@ -165,10 +165,10 @@ Our community became a Q&A community, where someone would ask a question, hope f
 Note:
 Jeff Atwood, creator of Stack Overflow, said that "Real community is so much more than just basic customer support, it’s listening to your customers, talking to them in public, folding in their feedback, talking to your own team in public, watching customers give pro tips to other customers, and generally just walking alongside your customers in their journey with your product."
 
----?image=assets/image/auth0_Community.png&size=auto 85%
-
 ---
 ### Developers Helping Developers
+
+---?image=assets/image/auth0_Community.png&size=auto 85%
 
 ---
 ## Resources
