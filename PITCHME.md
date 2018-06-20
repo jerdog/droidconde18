@@ -5,9 +5,6 @@
 ## Who am I
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
-<i class="fa fa-twitter"></i> @IAmJerdog<br />
-<i class="fa fa-chrome"></i> https://jmeiss.me<br />
-<i class="fa fa-envelope"></i> jeremy.meiss@gmail
 
 ---
 ## More about me
@@ -165,6 +162,15 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 ---?image=assets/image/auth0_Community.png&size=auto 85%
 
 ---
+### Steps We're Taking
+@ul
+- Building leaderboard
+- Incentivizing participation
+- Internal incentives
+-
+@ulend
+
+---
 ## Resources
 - CHAOSS: Community Health Analytics Open Source Software - http://chaoss.community
 - *Art of Community*, Jono Bacon, http://artofcommunityonline.org
@@ -173,3 +179,12 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 
 ---
 ## Q&A
+
+---
+### Thank you
+<i class="fa fa-twitter"></i> @IAmJerdog<br />
+<i class="fa fa-chrome"></i> https://jmeiss.me<br />
+<i class="fa fa-envelope"></i> jeremy.meiss@gmail
+
+Repo: http://bit.ly/dcberlin18repo
+Slides: http://bit.ly/dcberlin18
