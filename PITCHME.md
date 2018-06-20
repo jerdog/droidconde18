@@ -169,7 +169,7 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 - CHAOSS: Community Health Analytics Open Source Software - http://chaoss.community
 - *Art of Community*, Jono Bacon, http://artofcommunityonline.org
 - Community Pulse Podcast - http://communitypulse.io/
-- TODO Group: open source collaboration providing guides on open source in the workplace - http://todogroup.org
+- DevRel Weekly Newsletter - http://devrelweekly.com/
 
 ---
 ## Q&A
