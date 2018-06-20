@@ -131,7 +131,7 @@ Note:
 Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
 
 ---
-![auth0logo](assets/image/auth0-logo-transparent.png)
+![auth0logo](assets/image/logo-grey.png)
 ### Our Story
 
 Note:
