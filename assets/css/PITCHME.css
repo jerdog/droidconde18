@@ -6,9 +6,9 @@
  */
 
  .reveal section img {
-   border: 0;
-   box-shadow: none;
- }
+    background: none !important;
+    box-shadow: none !important;
+}
  @import url("fontawesome-all.min.css");
 
 
