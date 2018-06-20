@@ -5,11 +5,7 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
- .reveal section img {
-    background: none !important;
-    box-shadow: none !important;
-}
- @import url("fontawesome-all.min.css");
+@import url("fontawesome-all.min.css");
 
 
 body {
@@ -46,6 +42,11 @@ html:-moz-full-screen-ancestor {
   border-radius: 15px;
   opacity: 0.75 !important;
   font-size: 50% !important;
+}
+
+.reveal section img {
+   background: none !important;
+   box-shadow: none !important;
 }
 
 .reveal p span.slide-title {
