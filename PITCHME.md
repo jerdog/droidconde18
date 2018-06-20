@@ -98,11 +98,11 @@ Note:
 ---
 ### Community Onboarding 101
 @ul
-- Make new members feel welcomed and comfortable
-- Give specific, simply steps to get started
+- Make them feel welcomed and comfortable
+- Give specific, simple steps to get started
 - Don't overwhelm with too much info/tasks
 - Over time interact in multiple ways @note[don't just use email to interact]
-- Convey the culture and voice of the community
+- Convey the culture and voice
 @ulend
 
 ---
@@ -130,9 +130,7 @@ It is important to understand the different reasons that people participate in c
 Note:
 Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
 
----
-## Auth0 Story
-
+---?image=assets/image/auth0-logo-transparent.png&size=auto 80%
 
 Note:
 - Where we started
