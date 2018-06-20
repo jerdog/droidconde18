@@ -132,7 +132,7 @@ Understanding why people would want to participate in your community is essentia
 
 ---
 ![auth0logo](assets/image/auth0-logo-transparent.png)
-### Our Story
+Our Story
 
 Note:
 - Where we started
