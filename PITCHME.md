@@ -85,8 +85,8 @@ Vibrant, awesome communities foster a "sense" of connectedness, and then combine
 ---
 ### How to get started?
 @ul
-- Identify target devs and where they hang out @note[Places like SO, StackExchange, Hacker News, Reddit, etc. are the biggest, with places like Microsoft's MSDN targeting devs on specific MS platforms and tech partners.]
-- Identify their interests and motivations
+- Identify target devs / where they hang out @note[Places like SO, StackExchange, Hacker News, Reddit, etc. are the biggest, with places like Microsoft's MSDN targeting devs on specific MS platforms and tech partners.]
+- Identify their interests and motivations @note[Building the personas in your community is important to be able to craft ways to get them participating. Putting together swag with dogs won't work if your developers like cats.]
 - Remove barriers to adoption @note[Remove every barrier which prohibits easy adoption of your platform/product. Make sure that your onboarding to participation in the community is as straightforward / simple as possible.]
 @ulend
 
@@ -151,7 +151,7 @@ Our community became a Q&A community, where someone would ask a question, hope f
 ![vending-machine](assets/image/vending_machines.png)
 
 ---
-<em>"Real community is so much more than just basic customer support..."</em><br />Jeff Atwood, StackOverflow creator
+<em>"Real community is so much more than just basic customer support..."</em><br />**Jeff Atwood**, StackOverflow creator
 
 Note:
 Jeff Atwood, creator of Stack Overflow, said that "Real community is so much more than just basic customer support, it’s listening to your customers, talking to them in public, folding in their feedback, talking to your own team in public, watching customers give pro tips to other customers, and generally just walking alongside your customers in their journey with your product."
@@ -167,7 +167,7 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 - Building leaderboard
 - Incentivizing participation
 - Internal incentives
--
+- Our first developer community survey
 @ulend
 
 ---
