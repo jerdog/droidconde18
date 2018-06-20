@@ -130,7 +130,8 @@ It is important to understand the different reasons that people participate in c
 Note:
 Understanding why people would want to participate in your community is essential, but it is not enough to stop there - you must provide incentives for them to participate and move through the different stages of participation.
 
----?image=assets/image/auth0-logo-transparent.png&size=auto
+---
+![auth0logo](assets/image/auth0-logo-transparent.png)
 ### Our Story
 
 Note:
