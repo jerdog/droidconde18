@@ -47,6 +47,7 @@ html:-moz-full-screen-ancestor {
 .reveal section img {
    background: none !important;
    box-shadow: none !important;
+   border: none !important;
 }
 
 .reveal p span.slide-title {
