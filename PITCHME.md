@@ -76,6 +76,9 @@ Note:
 Feverbee, a community-consulting company, has come up with 4 stages in a community's lifecycle, with each having their own steps and/or tasks to get to the next stage.   
 
 ---
+![escalation](assets/image/escalated.gif)
+
+---
 ## How do you get people involved?
 "If you can *enable* an environment in which people can share, they will and the benefits will entice others to join." -**Susannah Fox**, *Pew Internet / American Life Project*
 
