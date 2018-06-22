@@ -2,7 +2,7 @@
 ### What is it good for?
 ![conflogo](assets/image/conflogo.png)
 ---
-## Who am I
+![headshot](assets/image/headshot_400x400.jpg)
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
 
