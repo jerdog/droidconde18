@@ -21,7 +21,7 @@ Head of Community @ Auth0<br />
 
 ---
 ### Cat Herding as a skill
-![cat-herding](https://i.imgur.com/bd7Wzwa.gifv)
+![cat-herding](http://i.bittwiddlers.org/b/LYM)
 
 ---?image=assets/image/dna.png&size=auto 90%&opacity=60
 ### What is Community?
