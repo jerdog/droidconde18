@@ -7,7 +7,7 @@
 Head of Community @ Auth0<br />
 
 ---
-## More about me
+## About Me
 @ul
 - 10&plus; years in Community/DevRel
 - Community/DevRel Consultant
@@ -18,6 +18,10 @@ Head of Community @ Auth0<br />
 ---?image=assets/image/watermelon.jpg&size=auto 90%&opacity=60
 
 ## Community == Watermelon?
+
+---
+### Cat Herding as a skill
+![cat-herding](assets/image/cat_herding.mp4)
 
 ---?image=assets/image/dna.png&size=auto 90%&opacity=60
 ### What is Community?
