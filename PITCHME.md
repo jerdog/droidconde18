@@ -19,10 +19,6 @@ Head of Community @ Auth0<br />
 
 ## Community == Watermelon?
 
----
-### Cat Herding as a skill
-![cat-herding](assets/image/cat_herding.gif)
-
 ---?image=assets/image/dna.png&size=auto 90%&opacity=60
 ### What is Community?
 #### A group of people with unique:
@@ -35,9 +31,8 @@ Head of Community @ Auth0<br />
 @ulend
 
 ---
-### Spontaneous community
-
----?image=assets/image/spontaneous_community.jpg&size=auto 50%
+### Cat Herding as a skill
+![cat-herding](assets/image/cat_herding.gif)
 
 ---
 ## Community Need Growing
@@ -48,6 +43,7 @@ Head of Community @ Auth0<br />
 @ulend
 
 Note:
+Lately we have seen a growing need for communities amongst many different apps, companies, groups.
 
 ---
 ### Brand Advocates / SuperUsers
@@ -70,7 +66,7 @@ Companies have begun to understand the importance of brand advocates or SuperUse
 - Establishment @note[When your community becomes **ESTABLISHED** you'll be writing content, organizing events, talks, etc., analyzing statistics about the community, deal with conflicts/disputes, etc.]
 - Maturity @note[Community **MATURITY** will see the influence of the community growing, volunteers growing; goals and vision will be streamlined, refined, and widely adopted.]
 - Mitosis @note[**MITOSIS** is when a cell splits into new nuclei - or in this case forms more-focused sub groups in your community. Communities can be thought of as organisms. Organisms are born, they grow, they mature, and then some split and replicate themselves elsewhere. But there's another aspect of communities that isn't often talked about - sometimes they die.]
-- Death @note[The four cycles above are \natural, and if they aren't doing this, they're already dead - and with communities it is a real thing - and so I am adding **DEATH**.]
+- Death
 @ulend
 
 Note:
@@ -78,6 +74,22 @@ Feverbee, a community-consulting company, has come up with 4 stages in a communi
 
 ---
 ![escalation](assets/image/escalated.gif)
+
+---?image=assets/image/generational.png&size=auto 90%&opacity=60
+### Lifecycle of Communities
+- Inception
+- Establishment
+- Maturity
+- Mitosis
+- Death
+
+Note:
+The four cycles above are natural, and if they aren't doing this, they're already dead - and with communities it is a real thing - and so I am adding **DEATH**.
+
+---?image=assets/image/revampedlifecycle.png&size=auto 90%
+
+Note:
+As I mentioned, each stage has some specific steps that you will perform which is shown in this graphic from Feverbee.
 
 ---
 ## How do you get people involved?
@@ -145,7 +157,6 @@ Note:
 
 ---
 ### Support-Driven Community
-
 
 Note:
 Our community became a Q&A community, where someone would ask a question, hope for the answer, and then go back to doing what they were until they had another question. I commonly refer to it as...
