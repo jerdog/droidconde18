@@ -202,5 +202,5 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 <i class="fa fa-chrome"></i> https://jmeiss.me<br />
 <i class="fa fa-envelope"></i> jeremy.meiss@gmail
 
-Repo: http://bit.ly/dcberlin18repo
+Repo: http://bit.ly/dcberlin18repo<br />
 Slides: http://bit.ly/dcberlin18slides
